@@ -66,6 +66,6 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 🌍 Connect
 🔗 Live Demo: https://www.gleamsol.com/tools/php-editor.php
-📧 Contact: info@gleamsol.com
+📧 Contact: contact@gleamsol.com
 
 ⭐ Star this repo if you find it useful! 🚀
