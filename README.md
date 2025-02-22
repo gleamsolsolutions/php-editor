@@ -19,9 +19,10 @@ Clone the repository:
 git clone https://github.com/gleamsolsolutions/php-editor.git
 cd php-editor
 
+Place it in htdocs under xampp.
 
 Open in Browser
-Simply open index.html in a browser.
+Simply open localhost/[your_folder_name]/editor.php in a browser.
 
 📜 Technologies Used
 HTML5 & CSS3 - For structuring and styling the editor.
@@ -29,7 +30,6 @@ Bootstrap 5 - Provides a responsive layout and styling.
 CKEditor 4 - Rich text editing functionality.
 pdfMake & html-to-pdfmake - Converts content to a downloadable PDF.
 JavaScript (ES6) - For handling user interactions.
-📸 Screenshots
 
 🔧 Usage
 Write or paste your text in the editor.
